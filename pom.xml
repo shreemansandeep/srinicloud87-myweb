@@ -29,7 +29,7 @@
 
 	</dependencies>
 	
-<1--	<distributionManagement>
+<!--	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
 		    <url>http://35.78.238.154:8081/repository/sample-snapshots/</url>
